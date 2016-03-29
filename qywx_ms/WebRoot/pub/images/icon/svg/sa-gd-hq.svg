@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g>
+	<path fill="#FE8E1B" d="M72.045,64c0,4.418-3.582,8-8,8h-56c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h56c4.418,0,8,3.582,8,8V64
+		z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-166.5127" y1="540.7959" x2="-113.8547" y2="593.454" gradientTransform="matrix(1 0 0 1 182.0801 -522.3203)">
+		<stop  offset="0.3" style="stop-color:#C8691D"/>
+		<stop  offset="1" style="stop-color:#C8691D;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M72.045,64V42.535L44.186,13.002l-24.141,0.996l-0.551,42.497L39.674,72h24.371
+		C68.463,72,72.045,68.418,72.045,64z"/>
+</g>
+<g>
+	<g id="document_x5F_text_2_">
+		<path fill="#FFFFFF" d="M24.767,41.128v2.812h12.04c0.432-1.021,1.006-1.967,1.699-2.812H24.767z"/>
+		<polygon fill="#FFFFFF" points="24.767,32.69 24.767,29.878 47.268,29.878 47.268,32.69 		"/>
+		<path fill="#FFFFFF" d="M47.268,35.503h-22.5v2.813h17.125c1.6-0.875,3.428-1.377,5.375-1.4V35.503z"/>
+		<path fill="#FFFFFF" d="M38.169,55.189H21.955V15.813h19.688v8.438h8.438v12.996c0.993,0.242,1.938,0.603,2.813,1.083V20.855
+			l-7.855-7.853H19.142v45h22.012C39.997,57.251,38.988,56.296,38.169,55.189z M44.452,16.396l5.045,5.044h-5.045V16.396z"/>
+	</g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M47.479,57.872
+		c-5.065-0.013-9.168-4.113-9.181-9.179c0.013-5.068,4.113-9.17,9.181-9.184c5.065,0.014,9.168,4.113,9.182,9.184
+		C56.645,53.759,52.543,57.859,47.479,57.872z"/>
+	<circle fill="#FFFFFF" cx="43.059" cy="51.638" r="0.737"/>
+	<circle fill="#FFFFFF" cx="43.059" cy="48.692" r="0.736"/>
+	<circle fill="#FFFFFF" cx="43.059" cy="45.746" r="0.737"/>
+	<path fill="#FFFFFF" d="M52.634,45.377c0-0.204-0.165-0.369-0.368-0.369h-6.629c-0.205,0-0.369,0.165-0.369,0.369v0.736
+		c0,0.203,0.164,0.369,0.369,0.369h6.629c0.203,0,0.368-0.166,0.368-0.369V45.377z"/>
+	<path fill="#FFFFFF" d="M52.634,48.323c0-0.203-0.165-0.368-0.368-0.368h-6.629c-0.205,0-0.369,0.165-0.369,0.368v0.737
+		c0,0.203,0.164,0.365,0.369,0.365h6.629c0.203,0,0.368-0.162,0.368-0.365V48.323z"/>
+	<path fill="#FFFFFF" d="M52.634,51.27c0-0.203-0.165-0.369-0.368-0.369h-6.629c-0.205,0-0.369,0.166-0.369,0.369v0.736
+		c0,0.204,0.164,0.369,0.369,0.369h6.629c0.203,0,0.368-0.165,0.368-0.369V51.27z"/>
+</g>
+</svg>

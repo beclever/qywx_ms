@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g>
+	<path fill="#FE8E1B" d="M72.045,64c0,4.418-3.582,8-8,8h-56c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h56c4.418,0,8,3.582,8,8V64
+		z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-166.5127" y1="540.7959" x2="-113.8547" y2="593.454" gradientTransform="matrix(1 0 0 1 182.0801 -522.3203)">
+		<stop  offset="0.3" style="stop-color:#C8691D"/>
+		<stop  offset="1" style="stop-color:#C8691D;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M72.045,64V42.535L44.186,13.002l-24.141,0.996l-0.551,42.497L39.674,72h24.371
+		C68.463,72,72.045,68.418,72.045,64z"/>
+</g>
+<g id="document_x5F_text_2_">
+	<path fill="#FFFFFF" d="M24.767,41.128v2.812h12.04c0.432-1.021,1.006-1.967,1.699-2.812H24.767z"/>
+	<polygon fill="#FFFFFF" points="24.767,32.69 24.767,29.878 47.268,29.878 47.268,32.69 	"/>
+	<path fill="#FFFFFF" d="M47.268,35.503h-22.5v2.813h17.125c1.6-0.875,3.428-1.377,5.375-1.4V35.503z"/>
+	<path fill="#FFFFFF" d="M38.169,55.189H21.955V15.813h19.688v8.438h8.438v12.996c0.993,0.242,1.938,0.603,2.813,1.083V20.855
+		l-7.855-7.853H19.142v45h22.012C39.997,57.251,38.988,56.296,38.169,55.189z M44.452,16.396l5.045,5.044h-5.045V16.396z"/>
+</g>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M47.49,57.872c-5.068-0.013-9.17-4.113-9.182-9.179
+	c0.012-5.068,4.111-9.17,9.182-9.184c5.064,0.014,9.167,4.113,9.179,9.184C56.657,53.759,52.555,57.859,47.49,57.872z"/>
+<g>
+	<polygon fill="#FFFFFF" points="44.411,43.786 42.911,45.286 44.786,47.161 43.661,48.286 47.41,48.286 47.41,44.536 
+		46.286,45.661 	"/>
+	<polygon fill="#FFFFFF" points="51.566,48.691 47.816,48.691 47.816,52.439 48.941,51.314 50.816,53.189 52.316,51.689 
+		50.443,49.816 	"/>
+</g>
+</svg>

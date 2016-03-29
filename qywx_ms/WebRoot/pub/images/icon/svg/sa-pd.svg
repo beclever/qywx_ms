@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<path fill="#7CB21F" d="M71.934,64c0,4.42-3.582,8-8,8h-56c-4.418,0-8-3.58-8-8V8c0-4.418,3.582-8,8-8h56c4.418,0,8,3.582,8,8V64z"
+	/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.4678" y1="18.5288" x2="69.1252" y2="70.1863">
+	<stop  offset="0.3" style="stop-color:#688730;stop-opacity:0.9958"/>
+	<stop  offset="0.9017" style="stop-color:#688730;stop-opacity:0.1398"/>
+	<stop  offset="1" style="stop-color:#688730;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M39.627,72h24.37c4.418,0,8-3.582,8-8V48L53.631,18.392l-35.584-0.443l-1.155,7.427l0.388,29.267"/>
+<path fill="#FFFFFF" d="M46.604,29.81c0,0-9.109-0.133-15.208,3.82c-6.098,3.958-7.911,12.363-7.911,12.363
+	s5.934-6.288,11.329-8.322c5.903-2.226,11.791-0.926,11.791-0.926v6.937l13.871-9.248l-13.871-11.56V29.81z"/>
+<path fill="#FFFFFF" d="M51.57,41.843v9.63c0,0.639-0.518,1.155-1.155,1.155H20.359c-0.639,0-1.156-0.519-1.156-1.155V21.417
+	c0-0.64,0.518-1.156,1.156-1.156h30.056c0.64,0,1.155,0.517,1.155,1.156v3.94l2.313,1.926v-8.179c0-0.639-0.517-1.156-1.156-1.156
+	h-34.68c-0.639,0-1.155,0.518-1.155,1.156v34.68c0,0.639,0.517,1.155,1.155,1.155h34.68c0.641,0,1.156-0.518,1.156-1.155V40.303
+	L51.57,41.843z"/>
+<path display="none" d="M41.02,36.893c0,0-9.108-0.133-15.208,3.82C19.714,44.671,17.9,53.076,17.9,53.076s5.934-6.288,11.329-8.322
+	c5.903-2.227,11.791-0.926,11.791-0.926v6.936l13.871-9.246L41.02,29.957V36.893z"/>
+<rect x="29.388" y="48" fill="#FFFFFF" width="20" height="2"/>
+<rect x="21.387" y="48" fill="#FFFFFF" width="4" height="2"/>
+</svg>

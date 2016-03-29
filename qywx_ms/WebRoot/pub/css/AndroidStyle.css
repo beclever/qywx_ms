@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+select{
+	font-size:1em;
+	line-height:4em;
+    border-width:0px 21px 0px 5px;
+    padding-left:0.3em;
+    -webkit-border-image:url(../images/bord3.png) 0 21 0 5; 
+    -moz-border-image:url(../images/bord3.png) 0 21 0 5;
+}

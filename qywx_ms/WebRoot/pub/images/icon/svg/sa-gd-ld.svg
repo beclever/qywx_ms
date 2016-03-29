@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<path fill="#FE8E1B" d="M72.045,64c0,4.418-3.582,8-8,8h-56c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h56c4.418,0,8,3.582,8,8V64z
+	"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-166.5127" y1="540.7959" x2="-113.8547" y2="593.454" gradientTransform="matrix(1 0 0 1 182.0801 -522.3203)">
+	<stop  offset="0.3" style="stop-color:#C8691D"/>
+	<stop  offset="1" style="stop-color:#C8691D;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M72.045,64V42.535L44.186,13.002l-24.141,0.996l-0.551,42.497L39.674,72h24.371
+	C68.463,72,72.045,68.418,72.045,64z"/>
+<g>
+	<g id="document_x5F_text_2_">
+		<path fill="#FFFFFF" d="M23.912,41.129v2.813h12.039c0.431-1.021,1.007-1.967,1.699-2.813H23.912z"/>
+		<polygon fill="#FFFFFF" points="23.912,32.691 23.912,29.878 46.413,29.878 46.413,32.691 		"/>
+		<path fill="#FFFFFF" d="M46.413,35.503H23.912v2.813h17.126c1.599-0.875,3.429-1.377,5.375-1.4V35.503z"/>
+		<path fill="#FFFFFF" d="M37.314,55.191H21.101V15.813h19.688v8.438h8.438v12.997c0.994,0.24,1.938,0.602,2.813,1.082V20.855
+			l-7.854-7.853H18.287v45h22.014C39.143,57.252,38.135,56.297,37.314,55.191z M43.598,16.397l5.045,5.044h-5.045V16.397z"/>
+	</g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M46.625,57.873c-5.068-0.014-9.17-4.113-9.182-9.18
+		c0.012-5.068,4.113-9.17,9.182-9.185c5.064,0.015,9.166,4.113,9.18,9.185C55.791,53.76,51.689,57.859,46.625,57.873z"/>
+	<polygon fill="#FFFFFF" points="45.762,52.883 42.318,52.883 42.318,49.441 	"/>
+	
+		<rect x="44.001" y="44.712" transform="matrix(0.707 -0.7072 0.7072 0.707 -19.2623 47.8028)" fill="#FFFFFF" width="8.114" height="4.87"/>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<path fill="#3684D3" d="M71.898,64.057c0,4.418-3.582,8-8,8h-56c-4.418,0-8-3.582-8-8v-56c0-4.418,3.582-8,8-8h56
+	c4.418,0,8,3.582,8,8V64.057z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.3716" y1="18.9136" x2="68.3847" y2="70.9267">
+	<stop  offset="0.3" style="stop-color:#1C63A5;stop-opacity:0.9958"/>
+	<stop  offset="0.9017" style="stop-color:#1C63A5;stop-opacity:0.1398"/>
+	<stop  offset="1" style="stop-color:#1C63A5;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M39.627,72h24.37c4.418,0,8-3.582,8-8V52.167L55.605,25.241l-5.063-10.125H20.168l-5.063,10.125
+	v30.375"/>
+<circle display="none" fill="#FFFFFF" cx="49.092" cy="43.003" r="11"/>
+<g display="none">
+	<g id="box" display="inline">
+		<g>
+			<path fill="#FFFFFF" d="M38.918,47.913c0-5.739,4.652-10.392,10.391-10.392c2.397,0,4.6,0.819,6.356,2.185v-9.417h-40.62v25.388
+				h27.373C40.275,53.771,38.918,51.005,38.918,47.913z"/>
+			<polygon fill="#FFFFFF" points="37.895,25.211 55.666,25.211 50.588,15.056 37.895,15.056 			"/>
+			<polygon fill="#FFFFFF" points="32.817,15.056 20.123,15.056 15.045,25.211 32.817,25.211 			"/>
+		</g>
+	</g>
+	<path display="inline" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M50.113,57.057
+		c-4.786-0.012-8.66-3.886-8.672-8.671c0.012-4.788,3.886-8.661,8.672-8.673c4.785,0.012,8.66,3.887,8.672,8.673
+		C58.773,53.171,54.898,57.044,50.113,57.057z"/>
+</g>
+<g display="none">
+	<path display="inline" fill="#FFFFFF" d="M54.93,51.916l-3.012-3.014c0.436-0.612,0.695-1.36,0.695-2.17
+		c0-2.071-1.68-3.75-3.75-3.75c-2.071,0-3.75,1.679-3.75,3.75c0,2.069,1.679,3.75,3.75,3.75c0.81,0,1.558-0.26,2.17-0.696
+		l3.014,3.013c0.244,0.244,0.639,0.244,0.883,0S55.174,52.16,54.93,51.916z M51.01,47.995c-0.216,0.364-0.518,0.668-0.885,0.884
+		c-0.371,0.221-0.799,0.354-1.262,0.354c-1.381,0-2.5-1.117-2.5-2.5c0-1.381,1.119-2.5,2.5-2.5s2.5,1.119,2.5,2.5
+		C51.363,47.195,51.229,47.623,51.01,47.995z"/>
+</g>
+<g id="box_1_">
+	<g>
+		<rect x="15.105" y="30.303" fill="#FFFFFF" width="40.5" height="25.313"/>
+		<polygon fill="#FFFFFF" points="37.889,25.241 55.605,25.241 50.543,15.116 37.889,15.116 		"/>
+		<polygon fill="#FFFFFF" points="32.824,15.116 20.168,15.116 15.105,25.241 32.824,25.241 		"/>
+	</g>
+</g>
+</svg>

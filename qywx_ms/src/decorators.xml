@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/view/decorators/">
+    <!-- Any urls that are excluded will never be decorated by Sitemesh -->
+    <excludes>
+        <pattern>/index*.jsp</pattern>
+        <pattern>images/*</pattern>
+        <pattern>/action/user/login*</pattern>
+        <pattern>*.css</pattern>
+        <pattern>*.js</pattern>
+        <pattern>*.html</pattern>
+        <pattern>*/ajax/*</pattern>
+        <pattern>*/outJsp/*</pattern>
+    </excludes>
+
+    <decorator name="mobile_theme" page="mobile_theme.jsp">
+    	<pattern>/cp*</pattern>
+    	<pattern>*ticket*</pattern>
+    </decorator>
+</decorators>

@@ -1,0 +1,586 @@
+/***************index 首页********************/
+.indexmian,#indexmian{
+	padding-top:5em;
+	display:block;
+}
+.saindex_bg{
+    background:#F7F7F7;   
+}
+.sa_apps_box{
+    width:33%;
+    float:left;
+    text-align: center;
+    position:relative;
+    margin-bottom: 0.5em;
+}
+.sa_apps a{
+    color:#333;
+    font-size:1.3em;
+    line-height: 200%;
+    margin-top:10px;
+    clear: both;
+}
+.sa_apps_box_touch{
+    padding-top:0px;
+}
+.sa_apps_box img{
+    width:62%;
+}
+.prompt_icon{
+    width:25px;
+    height:25px;
+    font-size:0.9em;
+    line-height:200%;
+    text-align:center;
+    right:0.8em;
+    top:-0.5em;
+    position:absolute;
+    background:url(sa/images/prompt_icon.png);
+    color:#fff;
+}
+.saindex_nav{
+    height:83%;
+    width:99%;
+    display: block;
+    margin:0 auto;
+}
+.mian_content{
+	padding-top:51px;
+	font-size:1.05em;
+	line-height:2em;
+	color:#333;
+}
+.mian_content span{
+	display:block;
+	padding: 0.5em 0em 0.5em 0.7em;
+	color:#0E3995;
+}
+/******************----录单管理---*******************/
+/*----工单列表-----*/
+.list_01{
+    background:#fbfafa;
+    display:block;
+    width: 460px;
+    border-top:1px solid #e7e7e7;
+    padding: 10px;
+}
+.list_left{ width:440px;line-height: 20px}
+.r20{
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+/*-----工单详情-----*/
+.show_icon_map{
+	width:1.5em;
+	right:0.1em;
+	top:0.5em;
+	position:absolute;
+}
+.show_icon_phone{
+	width:1.9em;
+	right:13%;
+	top:0.25em;
+	position:absolute;
+}
+.work_task_order_row{
+	display: block;
+	clear:both;
+	border-top:1px solid #D7D7D7;
+}
+.work_task_order_row_cell1{
+	width:33%;
+	font-size:0.9em;
+	line-height:35px;
+	text-align:right;
+	float: left;
+	color:#0E3995;
+}
+.work_task_order_row_cell2{	
+	width:67%;
+	margin:0.2em 0em;
+	float: left;
+	vertical-align: middle;
+	line-height: 35px;
+}
+.work_task_order_row_textarea{
+	height:80px;
+	width:100%;
+	line-height:1.5em;
+	font-size:16px;
+	border: 1px solid #C7C7C7;
+}
+.work_task_order_row_textarea1{
+	height:120px;
+	width:100%;
+	line-height:1.5em;
+	font-size:16px;
+	border: 1px solid #C7C7C7;
+}
+.clear{
+	clear:both;
+}
+.leave_02_1{
+	line-height: 35px;
+	text-align: right;
+	width:105;
+	float: left;
+}
+.leave_height{
+    padding:0.7em 0em 0.7em 0.2em;
+    vertical-align: middle;
+    font-size:0.9em;
+}
+.textfield_from{
+    line-height:35px;
+    height:35px;
+    width:100%;
+    border: 1px solid #C7C7C7;
+    font-size:16px;
+}
+.textfield3_from{
+    line-height:38px;
+    height:80px;
+    width:100%;
+    border: 1px solid #C7C7C7; font-size:16px;
+}
+.textfield_from_input{
+    margin:0.2em 0em;
+    width:72%;
+    padding-left:0.3em;
+    border: 1px solid #bbbbbb;
+    font-size:16px;
+    color:#333;
+}
+.progress{
+	display: block;
+	margin-left:0.1em;
+}
+.progress li,.progress li a{
+	width:3em;
+	float:left;
+	color:#FFF;
+	text-align:center;
+	margin-right:0.1em;
+	line-height:2.3em;
+	font-size:1.1em;
+	list-style-type:none;
+}
+.progress_green{
+	background:url(sa/images/progress2_6.png) top no-repeat;
+	background-size:cover;
+}
+.progress_green2{
+	background:url(sa/images/progress2_6.png) 0px 0px no-repeat;
+	background-size:cover;
+}
+.progress_yellow{
+	background:url(sa/images/progress2_5.png) 0px 0px no-repeat;
+	background-size:cover;
+}
+.progress_yellow2{
+	background:url(sa/images/progress2_5.png) 0px 0px no-repeat;
+	background-size:cover;
+}
+.progress_gray{
+	background-size:cover;
+	background:url(sa/images/progress2_4.png) 0px 0px no-repeat;
+}
+.progress_gray2{
+	background-size:cover;
+	background:url(sa/images/progress2_4.png) 0px 0px no-repeat;
+}
+.progress_content{
+	display: block;
+	padding-top: 0.6em;
+}
+.progress_content li{
+	width:4em;
+	float:left;
+	color:#333;
+	margin-left:0.5em;
+	line-height:150%;
+	text-align:center;
+	font-size:0.75em;
+	list-style-type:none;
+}
+.progress2{
+	display: block;
+	margin-left:0.3em;
+}
+.progress2 li,.progress2 li a{
+	width:3.5em;
+	float:left;
+	color:#FFF;
+	text-align:center;
+	margin-right:0.3em;
+	line-height:2.3em;
+	font-size:1.1em;
+	list-style-type:none;
+}
+/*----工单任务添加界面-----*/
+.work_task_inputAdd{
+    clear:both;
+}
+.work_task_inputBox{
+    padding:1px 5px;
+    font-size:1.3em;
+    background:#FFFFFF;
+    clear:both;zoom:1;
+}
+.work_task_inputcontent{
+    display:block;
+    padding:0.2em 0em;
+    clear:both;zoom:1;
+    position:relative;
+}
+
+.input_text{
+    width:8em;
+    height:1.6em;
+    line-height:1.6em;
+    border:0px;
+    border: 1px solid #C7C7C7;
+}
+.input_text02{
+    width:60%;
+    height:1.6em;
+    line-height:1.6em;
+    border:0px;
+    border: 1px solid #C7C7C7;
+    margin-top: 0.2em;
+}
+.input_text03{
+    width:50%;
+    height:1.6em;
+    line-height:1.6em;
+    border:0px;
+    border: 1px solid #C7C7C7;
+    margin-top: 0.2em;
+}
+/*----录单选项卡-----*/
+#taskOrder_nav{
+	height:100%;
+	width:4em;
+	float:left;
+	position:fixed;
+	text-align:center;
+	z-index:1000;
+	background:#fff;
+	border-right:1px solid #CFCFCF;
+}
+#taskOrder_nav ul{
+	padding:0px;
+	margin:0px;
+}
+#taskOrder_nav li {
+	margin-left:0.5em;	
+	cursor:pointer;
+	text-align:center;
+}
+#taskOrder_nav li a {
+	border-bottom:1px solid #CFCFCF;
+	padding:0.5em 0em;
+	margin-right:0.3em;
+	text-align:center;
+	display:block;
+	font-size:20px;
+	color: #333;
+}
+#taskOrder_nav li.emptyTag {
+}
+#taskOrder_nav li.selecttag {
+	border-right:3px solid #FF6C00;
+	position:relative;
+}
+#taskOrder_nav li.selecttag a {
+	color: #333;
+	border-right:0px solid #fff;
+}
+.min_width{
+	display:block;
+}
+#boxContent{
+	height:100%;
+	width:85%;
+	top:0px;
+	right:2px;
+	margin-left:3.8em;
+}
+.tagContent{
+	color:#474747;
+	width:100%;
+}
+.flowmargin-top{
+	padding-top:0.8em;	
+}
+#boxContent div.selectTag {
+	display:block;
+}
+/*----录单内容-----*/
+.taskOrder_box01{
+	margin:0.3em;
+	padding:0.3em;
+	display:block;
+	position:relative;
+	background:#F9F9F9;
+	border:1px solid #E3E3E3;
+}
+.taskOrder_box01 span{
+	width:85%;
+	padding:0.2em;
+	display:block;
+}
+.taskOrder_close{
+	width:1.8em;
+	position:absolute;
+	right:0.1em;
+	top:0.1em;
+}
+.taskOrder_close img{
+}
+.taskOrder_inputwidth{
+	width:105%;
+	height:1.8em;
+}
+.taskOrder_inputwidth02{
+	width:100%;
+}
+
+.task_replace{
+	padding:1em 0em 0.4em 0em;
+	display: block;
+}
+.task_replace_button_unselected{
+	background-color:#C7C7C7;
+	color:#828282;
+	padding:5px 2px;
+	margin-right:1px;
+}
+.task_replace_button_selected{
+	background:#3C97E1;
+	color:#fff;
+	padding:5px 1px;
+	margin-right:1px;
+}
+.task_box02{
+	margin:0.3em;
+	padding:0.3em;
+	display:block;
+	position:relative;
+	background:#F9F9F9;
+	border:1px solid #E3E3E3;
+}
+.task_box02 span{
+	width:85%;
+	padding:0.2em;
+	display:block;
+}
+.task_close{
+	width:1.8em;
+	position:absolute;
+	right:0.1em;
+	top:0.1em;
+}
+.task_close img{
+	width:1.7em;
+}
+.record_div{
+    background:#FFFFFF;
+    clear:both;zoom:1;
+}
+.taskOrder_fieldset{
+	color:#333;
+	font-size:1.4em;
+	border:1px solid #bbb;
+}
+.window_wrapper_top{
+	margin-left:1em;
+}
+
+.taskOrder_add_btn{
+	padding-top:0.05em;
+}
+
+.taskOrder_add_btn span{
+	position:absolute;
+	top:0.65em;
+	right:0.7em;
+	width:1.5em;
+	height:1.3em;
+}
+/*****************************---后勤任务*************************/
+.legend_font{
+	font-size:1.1em;
+	padding:0em 0.5em;
+}
+.logistics_div{	
+}
+.logistics_add{
+	width:5em;
+	font-size:1.1em;
+	display:block;
+	padding:0.5em 0em;
+}
+.logistics_add_icon{
+	width:1.3em;
+	margin:0em 0.3em -0.3em 0.5em;
+}
+.logistics_box01{
+	margin:0.3em;
+	padding:0.3em;
+	display:block;
+	position:relative;
+	background:#F9F9F9;
+	border:1px solid #E3E3E3;
+}
+.logistics_box01 span{
+	width:85%;
+	padding:0.2em;
+	display:block;
+}
+.logistics_close{
+	width:1.8em !important;
+	position:absolute;
+	right:0.1em;
+	top:0.1em;
+}
+.logistics_close img{
+	width:1.7em;
+}
+/*****************************---设备管理*************************/
+.equipment_query{
+	width:100%;
+	zoom:1;
+	display: block;
+	font-size:1.4em;
+	text-align:center;
+	padding-left:0.5em;
+	position:absolute;
+	height:10em;
+	border-bottom:1px solid #E3E3E3;
+}
+.equipment_mian{
+	margin-left:1em;
+	display:block;
+}
+.equipment_fromwidth{
+	height:2em;
+	width:100%;	
+}
+.history_bg{
+	background:#F6F6F6
+}
+.history_box{
+	font-size:1.4em;
+	margin:0.8em;
+	background:#fff;
+	border:1px solid #E7E7E7;
+}
+.history_box li{
+	padding:0.7em 0.5em;
+	margin:0em 0.6em;
+	border-bottom: 1px dotted #D7D7D7;
+}
+.history_box li label{
+	color:#0E3995;
+}
+.equipmentconfig_box li{
+	font-size:1.4em;
+	margin:0.3em 0.5em;
+	text-indent:0.5em;
+	padding:0.7em 0em;
+	background:#fff;
+	border:1px solid #E7E7E7;
+}
+.equipmentconfig_box li ul{
+	margin:0em;
+	padding:0em;
+}
+.equipmentconfig_box li ul li{
+	font-size:1.1em;
+	margin:0em;
+	padding:0.5em 0em;
+	border-bottom: 1px dotted #D7D7D7;
+}
+.query_box1{
+	position:relative;
+	/*border:1px solid #BBBBBB;*/
+	padding-top:0.05em;
+}
+.query_box1 span{
+	position: absolute;
+	top:0.5em;
+	right:0.5em;
+	width:1.2em;
+	height:1.8em;
+}
+.query_box_btn{
+	float:right;
+	margin-right:0.3em;
+	margin-top:0.5em;
+}
+.query_box1 span img{
+	width:100%;
+	cursor: pointer;
+}
+#equipmentSerialNumber{
+	width:98%;
+	height:1.5em;
+	margin-bottom:0.2em;
+	color: #ccc;
+}
+#equipmentBranchName{
+	width:98%;
+	height:1.5em;
+	margin-bottom:0.2em;
+	color: #ccc;
+}
+#equipmentInstallAddress{
+	width:98%;
+	height:1.5em;
+	margin-bottom:0.2em;
+	color: #ccc;
+}
+#equipmentATMNumber{
+	width:98%;
+	height:1.5em;
+	margin-bottom:0.2em;
+	color: #ccc;
+}
+/*****************************--备件查询--*************************/
+#materialName{
+	width:98%;
+	height:1.5em;
+	margin-bottom:0.2em;
+	color: #ccc;
+}
+.select_height{
+	color:#ccc;
+	height:2em;
+	width:100%;	
+}
+/*****************************--替换记录--*************************/
+.spare_replace_user{
+	background:#F6F6F6;
+	font-size:1.4em;
+	line-height:150%;
+	color:#444;
+	border-bottom:1px solid #E3E3E3;
+}
+.spare_replace_user img{
+	padding:0em 0.8em 0.5em 0.8em;
+	width:2.4em;
+}
+.spare_wrapper_top{
+	margin-left:1em;
+}
+/** 修改div浮动问题  底部和顶部的样式*/
+.pos-rel {
+	position: relative;;
+	margin-top:-43px;
+}
+.pos-rel2 {
+	position: relative;;
+	margin-top:0px;
+}
